@@ -67,6 +67,7 @@ This is why developers who've been burned by other generators trust `stackinit`.
 ## Quick start
 
 ```bash
+npm i stackinit
 npx stackinit
 ```
 
